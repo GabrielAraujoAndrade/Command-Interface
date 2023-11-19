@@ -1,2 +1,2 @@
 # Command-Interface
-Java
+Command interface para automatização de uma lâmpada. Feito em Java
